@@ -33,5 +33,12 @@
 <br/>
     
 ## My Projects
-[![Tundra Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=tundra&theme=dark)](https://github.com/GrifTheDev/vuub)
-[![Vuub Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=vuub&theme=dark)](https://github.com/GrifTheDev/vuub)
+[![Tundra Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=tundra&theme=react&hide_border=true)](https://github.com/GrifTheDev/vuub)
+[![Vuub Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=vuub&theme=react&hide_border=true)](https://github.com/GrifTheDev/vuub)
+<br/>
+<br/>
+    
+## Cool Stats:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrifTheDev&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![Grif's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Grif&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
