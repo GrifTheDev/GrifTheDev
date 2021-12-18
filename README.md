@@ -1,4 +1,7 @@
-### 👋 Heyo, Grif here! 
+<h3 align="center">
+    👋 Heyo, Grif here! 
+</h3>
+
 <p align="center">
     <b>
         I'm a student and a hobbyist programmer. I find programming very entertaining and fascinating, because it helps me think critically and logically. I am currently working on two projects, which you can find below!
@@ -25,3 +28,9 @@
 <img align="left" alt="C++ Logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">
     
 <img align="left" alt="Angular Logo" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png">
+
+<br/>
+<br/>
+    
+## My Projects
+[![Vuub Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=vuub&theme=algolia)](https://github.com/GrifTheDev/vuub)
