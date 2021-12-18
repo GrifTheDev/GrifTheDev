@@ -33,6 +33,5 @@
 <br/>
     
 ## My Projects
-[![Vuub Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=vuub&theme=algolia)](https://github.com/GrifTheDev/vuub)
-<br/>
 [![Tundra Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=tundra&theme=algolia)](https://github.com/GrifTheDev/vuub)
+[![Vuub Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=vuub&theme=algolia)](https://github.com/GrifTheDev/vuub)
