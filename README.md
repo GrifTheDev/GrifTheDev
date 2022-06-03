@@ -1,44 +1,24 @@
-<h3 align="center">
-    👋 Heyo, Grif here! 
-</h3>
+<h3 align="center">👋 Hello world, I'm Grif!</h3>
+<p align="center">I'm a student, coffee lover, developer and a dog person. My goal is to use technology to create solutions to help people around the world and spread positivity while doing so. Strap in, and enjoy following my development adventures on GitHub!</p>
 
-<p align="center">
-    <b>
-        I'm a student and a hobbyist programmer. I find programming very entertaining and fascinating, because it helps me think critically and logically. I am currently working on two projects, which you can find below!
-</p>
+## Goals for 2022
+**Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/14)
 
-## Languages & Tools
-<img align="left" alt="Node.js Icon" width="40px" src="https://icons-for-free.com/iconfiles/png/512/js+library+long+shadow+nodejs+web+icon-1320184850167478047.png">
-  
-<img align="left" alt="Javascript Icon" width="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png">
-  
-<img align="left" alt="Python Icon" width="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png">
-  
-<img align="left" alt="Discord.js Icon" width="40px" src="https://i.imgur.com/AfFp7pu.png">
-  
-<img align="left" alt="VSCode Icon" width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
-  
-<img align="left" alt="NPM Icon" width="40px" src="https://symbols-electrical.getvecta.com/stencil_89/74_npm-icon.486e94c144.svg">
-<br/>    
-<br/>
-    
-## Want to Learn
-<img align="left" alt="Vue Icon" width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vue_icon_130078.png">
-    
-<img align="left" alt="C++ Logo" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">
-    
-<img align="left" alt="Angular Logo" width="40px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png">
+- [ ] Learn the React framework.
+- [ ] Learn to use TypeScript in projects.
+- [ ] Work on a better personal [website](https://grif.is-a.dev).
+- [ ] Release [passy](https://github.com/GrifTheDev/passy) v1.0.0
+- [ ] Make one public web app for everyone to use.
+- [ ] Master git.
+- [x] Open-source [Spark](https://github.com/GrifTheDev/Spark).
 
-<br/>
-<br/>
-    
-## My Projects
-[![Tundra Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=tundra&theme=react&hide_border=true)](https://github.com/GrifTheDev/vuub)
-[![Vuub Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=vuub&theme=react&hide_border=true)](https://github.com/GrifTheDev/vuub)
-<br/>
-<br/>
-    
-## Cool Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrifTheDev&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-[![Grif's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Grif&theme=react&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+## Projects
+
+**Follow my projects by taking a look at their repositories.**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=passy)](https://github.com/GrifTheDev/passy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=Spark)](https://github.com/GrifTheDev/Spark)
+
+## Cool Stats
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GrifTheDev)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrifTheDev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
