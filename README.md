@@ -1,24 +1,20 @@
-<h3 align="center">👋 Hello world, I'm Grif!</h3>
+<h3 align="center">👋 Hello world, I'm Teo!</h3>
 <p align="center">I'm a student, coffee lover, developer and a dog person. My goal is to use technology to create solutions to help people around the world and spread positivity while doing so. Strap in, and enjoy following my development adventures on GitHub!</p>
 
-## Goals for 2022
-**Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/12)
+## Goals for 2023
+**Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
 
-- [ ] Learn the React framework.
-- [ ] Learn to use TypeScript in projects.
-- [ ] Make a public app using electron.
-- [ ] Work on a better [personal website](https://grif.is-a.dev).
-- [ ] Release [passy](https://github.com/GrifTheDev/passy) v1.0.0
-- [ ] Make one public web app for everyone to use.
-- [ ] Master git.
-- [x] Open-source [Spark](https://github.com/GrifTheDev/Spark).
+- [ ] Make one web app using Svelte.
+- [ ] Make a personal website.
+- [ ] Make an app using Electron & TypeScript.
+- [ ] Get [passy](https://github.com/GrifTheDev/passy) to v1.0.0
+- [ ] Document progress on the [COCI competition](https://hsin.hr/coci/).
 
 ## Projects
 
 **Follow my projects by taking a look at their repositories.**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=passy)](https://github.com/GrifTheDev/passy)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=Spark)](https://github.com/GrifTheDev/Spark)
 
 ## Cool Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GrifTheDev)](https://github.com/anuraghazra/github-readme-stats)
