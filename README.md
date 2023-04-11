@@ -7,8 +7,7 @@
 - [ ] Make one web app using Svelte.
 - [ ] Make a personal website.
 - [ ] Make an app using Electron & TypeScript.
-- [ ] Get [passy](https://github.com/GrifTheDev/passy) to v1.0.0
-- [ ] Document progress on the [COCI competition](https://hsin.hr/coci/).
+- [ ] Get [passy](https://github.com/GrifTheDev/passy) to v1.0.0.
 
 ## Projects
 
