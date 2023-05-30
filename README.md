@@ -11,8 +11,8 @@
 
 ## Projects
 
-**Follow my projects by taking a look at their repositories.**
-
+**Follow my projects by taking a look at their repositories.** <br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=gradr)](https://github.com/GrifTheDev/passy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=passy)](https://github.com/GrifTheDev/passy)
 
 ## Cool Stats
