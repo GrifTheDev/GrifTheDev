@@ -12,8 +12,9 @@
 ## Projects
 
 **Follow my projects by taking a look at their repositories.** <br/>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=gradr)](https://github.com/GrifTheDev/gradr)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=passy)](https://github.com/GrifTheDev/passy)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=teencash)](https://github.com/GrifTheDev/gradr)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=gradr)](https://github.com/GrifTheDev/gradr) <br/>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GrifTheDev&repo=prisoner-problem)](https://github.com/GrifTheDev/passy)
 
 ## Cool Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GrifTheDev)](https://github.com/anuraghazra/github-readme-stats)
