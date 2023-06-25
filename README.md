@@ -3,13 +3,12 @@
 <p align="center">I'm a student, coffee lover, developer and a dog person. My goal is to use technology to create solutions to help people around the world and spread positivity while doing so. Strap in, and enjoy following my development adventures on GitHub!</p>
 
 ## Goals for 2023
-**Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/0)
+**Progress:** ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/25)
 
 - [ ] Make one web app using Svelte.
 - [ ] Make a personal website.
 - [ ] Make an app using Electron & TypeScript.
-- [ ] Get [passy](https://github.com/GrifTheDev/passy) to v1.0.0.
-
+- [X] Make a Python script for simulating solutions to a mathematical problem.
 ## Projects
 
 **Follow my projects by taking a look at their repositories.** <br/>
